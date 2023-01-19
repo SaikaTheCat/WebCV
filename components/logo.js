@@ -33,7 +33,7 @@ const Logo = () => {
           fontWeight="bold"
           ml={3}
         >
-          Se Joon
+          SJ Oh
         </Text>
       </LogoBox>
 

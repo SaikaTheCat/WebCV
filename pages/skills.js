@@ -13,7 +13,6 @@ import thumbKnime from '../public/images/skills/knime.jpg'
 import thumbPlayfab from '../public/images/skills/playfab.png'
 import thumbpsq from '../public/images/skills/postgres-logo.png'
 import thumbReact from '../public/images/skills/react-logo.png'
-import thumbSB from '../public/images/skills/springboot.png'
 import thumbUE from '../public/images/skills/ue-logo.jpg'
 import thumbWeb from '../public/images/skills/webgamedevelopment.jpg'
 

@@ -121,8 +121,12 @@ const Navbar = props => {
         </Box>
     )
 }
-const MenuLink = forwardRef((props, ref) => (
-    <Link ref={ref} as={NextLink} {...props} />
-))
+const MenuLink = forwardRef((props, ref) => {
+    return (
+      <Link ref={ref} as={NextLink} {...props} />
+    )
+  })
+  MenuLink.displayName = 'MenuLink'
+  
 
 export default Navbar

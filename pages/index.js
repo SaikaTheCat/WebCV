@@ -19,7 +19,7 @@ const Page = () => {
                     bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')}
                     css={{ backdropFilter: 'blur(10px)' }}
                 >
-                    <div>Crafting entertaining games :&#41;</div>
+                    <div>Crafting entertaining games</div>
                 </Box>
                 <Box display={{ md: 'flex' }}>
                     <Box flexGrow={1}>

@@ -68,7 +68,7 @@ const Page = () => {
                     <BioSection>
                         <BioYear>2022</BioYear>
                         Completed Computer Software Engineering Degree Program in the Catholic University of Asunción
-                        (Universidad Católica \"Nuestra Señora de la Asunción\")
+                        (Universidad Católica 'Nuestra Señora de la Asunción')
                     </BioSection>
                     <BioSection>
                         <BioYear>2022 to present</BioYear>

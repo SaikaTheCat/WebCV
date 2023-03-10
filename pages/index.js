@@ -40,7 +40,10 @@ const Page = () => {
                             borderStyle="solid"
                             maxWidth="120px"
                             display="inline-block"
-                            borderRadius="full"
+                            borderTopLeftRadius="10px"
+                            borderTopRightRadius="10px"
+                            borderBottomLeftRadius="10px"
+                            borderBottomRightRadius="10px"
                             src="/images/profilePicture1.jpg"
                             alt="Profile Image"
                         />
@@ -52,9 +55,7 @@ const Page = () => {
                         About
                     </Heading>
                     <Paragraph>
-                        Se Joon is a game developer with a proven track record of delivering high-quality games for both desktop and mobile platforms. He has experience in a wide range of game development tools and technologies, including Unity/C#, GMS2 and JavaScript. His proficiency in full stack development allows him to create well-rounded projects that are polished and engaging for players.
-
-                        As a software engineering graduate and a Korean living in Paraguay, bringing a unique perspective to his work. He is committed to delivering quality results and is always looking for ways to improve his skills and stay current with the latest developments in the industry.
+                    I'm a game developer with experience in a wide range of game development tools and technologies, including Unity/C#, GMS2 and UE5. I create well-rounded projects, always looking for ways to improve my skills and stay updated to the latest developments in the industry.
                     </Paragraph>
                 </Section>
                 <Section delay={0.2}>
@@ -63,16 +64,34 @@ const Page = () => {
                     </Heading>
                     <BioSection>
                         <BioYear>1997</BioYear>
-                        Born in Seoul (서울), Korea.
+                        Born in Seoul (서울), Korea
+                    </BioSection>
+                    <BioSection>
+                        <BioYear>2001</BioYear>
+                        First game ever played: Pokemon Yellow
+                    </BioSection>
+                    <BioSection>
+                        <BioYear>2009</BioYear>
+                        Designed first game asset: Starcraft custom map
+                    </BioSection>
+                    <BioSection>
+                        <BioYear>2013</BioYear>
+                        Started a rock band as a bassist
+                    </BioSection>
+                    <BioSection>
+                        <BioYear>2017</BioYear>
+                        First game ever designed and developed,<br /><br />
+                        Started Computer Software Engineering degree&#39;s program
+                    </BioSection>
+                    <BioSection>
+                        <BioYear>2020</BioYear>
+                        Started sushi restaurant business
                     </BioSection>
                     <BioSection>
                         <BioYear>2022</BioYear>
                         Completed Computer Software Engineering Degree Program in the Catholic University of Asunción
-                        (Universidad Católica &quot;Nuestra Señora de la Asunción&quot;)
-                    </BioSection>
-                    <BioSection>
-                        <BioYear>2022 to present</BioYear>
-                        Working at Posibillian Tech as Game Developer
+                        (Universidad Católica &quot;Nuestra Señora de la Asunción&quot;)<br /><br />
+                        Started working at Posibillian Tech as Game Developer
                     </BioSection>
                 </Section>
                 <Section delay={0.3}>

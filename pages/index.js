@@ -55,7 +55,7 @@ const Page = () => {
                         About
                     </Heading>
                     <Paragraph>
-                    I'm a game developer with experience in a wide range of game development tools and technologies, including Unity/C#, GMS2 and UE5. I create well-rounded projects, always looking for ways to improve my skills and stay updated to the latest developments in the industry.
+                    I&#39;m a game developer with experience in a wide range of game development tools and technologies, including Unity/C#, GMS2 and UE5. I create well-rounded projects, always looking for ways to improve my skills and stay updated to the latest developments in the industry.
                     </Paragraph>
                 </Section>
                 <Section delay={0.2}>
